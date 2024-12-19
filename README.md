@@ -132,5 +132,5 @@ Dieses Projekt steht unter der MIT-Lizenz. Siehe `LICENSE` für weitere Informat
 ---
 
 <div align="center">
-  <p>Erstellt mit ❤️ von <a href="https://github.com/yourusername">YourName</a></p>
+  <p>Erstellt mit ❤️ von <a href="https://github.com/ShayRed">ShayRed</a></p>
 </div>
