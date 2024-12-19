@@ -1,0 +1,17 @@
+{
+  "proxies": [
+    {
+      "ip": "173.249.33.49",
+      "port": 43008,
+      "country": "DE",
+      "type": "socks5"
+    },
+    {
+      "ip": "51.75.126.150", 
+      "port": 36055,
+      "country": "FR",
+      "type": "socks5"
+    }
+    // ... weitere Proxies
+  ]
+} 

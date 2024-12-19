@@ -1,0 +1,9 @@
+com\toplistbot\Main.class
+com\toplistbot\proxy\ProxyFetcher.class
+com\toplistbot\captcha\CaptchaSolver.class
+com\toplistbot\core\VoteBot.class
+com\toplistbot\config\ProxyConfig.class
+com\toplistbot\core\CaptchaSolver.class
+com\toplistbot\config\ProxyConfig$Proxy.class
+com\toplistbot\config\BotConfig.class
+com\toplistbot\proxy\ProxyFetcher$1.class

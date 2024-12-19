@@ -1,0 +1,11 @@
+[
+  {
+    "ip": "zproxy.lum-superproxy.io",
+    "port": 22225,
+    "protocol": "socks5",
+    "country": "DE",
+    "username": "lum-customer-IHRE_ZONE-zone-static-ip-IHRE_IP",
+    "password": "IHR_PASSWORD",
+    "uptime": 100
+  }
+] 
