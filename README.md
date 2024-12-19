@@ -71,7 +71,7 @@ ToplistVoteBot/
 1. 🔍 Stelle sicher, dass Java 11 oder höher installiert ist
 2. 📥 Clone das Repository:
    ```
-   git clone https://github.com/yourusername/toplist-vote-bot.git
+   git clone https://github.com/ShayRed/Metin2-Toplist-VoteBot.git
    ```
 3. 📂 Navigiere zum Projektverzeichnis:
    ```
