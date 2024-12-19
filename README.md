@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://i.imgur.com/YourLogo.png](https://imgur.com/pYX4rOZ)" alt="Toplist Vote Bot Logo" width="200">
+  <img src="https://imgur.com/pYX4rOZ" alt="Toplist Vote Bot Logo" width="200">
   <h1>🤖 Toplist Vote Bot</h1>
   <p>
     <strong>Ein automatisierter Bot für Metin2 Private Server Toplisten, geschrieben in Java.</strong>
